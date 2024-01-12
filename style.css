@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.span {
+  color: rgb(4, 63, 44);
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+input {
+  padding: 4px;
+  width: 300px;
+}
+
+.p {
+  font-size: 60px;
+  font-weight: 700;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  padding: 5px 15px;
+  margin: 0 5px;
+  background-color: rgb(4, 63, 44);
+  color: #ffff;
+  border: none;
+}
